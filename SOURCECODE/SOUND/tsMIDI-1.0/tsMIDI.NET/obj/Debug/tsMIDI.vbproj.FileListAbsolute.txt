@@ -1,0 +1,9 @@
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\bin\tsMIDI.exe
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\bin\tsMIDI.pdb
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\bin\tsMIDI.xml
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\tsMIDI.tsMain.resources
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\tsMIDI.vbproj.GenerateResource.Cache
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\tsMIDI.exe
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\tsMIDI.xml
+C:\TSIDX-1.0\DEV\VB6\TS\SOUND\tsMIDI-1.0\tsMIDI.NET\obj\Debug\tsMIDI.pdb

@@ -1,0 +1,16 @@
+[Version]
+Version=1.2.0.0
+
+[MBFormEx.ocx <0009>]
+Dest=$(WinSysPath)
+Date=21/07/00
+Time=17.59
+Version=1.2.0.0
+CABFilename=MBFormEx.CAB
+CABINFFile=MBFormEx.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL

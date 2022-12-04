@@ -1,0 +1,25 @@
+   ______   ______
+  /\__  _\ /\  ___\     I R C
+  \/_/\ \/ \ \___  \    - - -
+     \ \_\  \/\_____\   1 . 0
+      \/_/   \/_____/
+
++-----------------------------+
+|                             |
+| WELCOME TO,                 |
+|                             |
+| IRC.THOMASSCHILB.NET        |
+|                             |
+| PORT: 6667                  |
+| PROTOCOL: IRC               |
+| SSL: NO                     |
+|                             |
+| CHANS: MAX. 1000            |
+| NICKS: MAX. 1000            |
+|                             |
+| BANDWIDTH: 1GBIT/S          |
+|                             |
+| NICKSERV: ON                |
+| CHANSERV: ON                |
+|                             |
++-----------------------------+

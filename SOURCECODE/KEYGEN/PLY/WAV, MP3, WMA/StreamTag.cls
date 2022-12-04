@@ -1,0 +1,34 @@
+VERSION 1.0 CLASS
+BEGIN
+  MultiUse = -1  'True
+  Persistable = 0  'NotPersistable
+  DataBindingBehavior = 0  'vbNone
+  DataSourceBehavior  = 0  'vbNone
+  MTSTransactionMode  = 0  'NotAnMTSObject
+END
+Attribute VB_Name = "StreamTag"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Option Explicit
+
+Private strTagName  As String
+Private strTagVal   As String
+
+Public Property Get TagName() As String
+    TagName = strTagName
+End Property
+
+Public Property Get TagValue() As String
+    TagValue = strTagVal
+End Property
+
+Public Sub SetValues( _
+    ByVal name As String, _
+    ByVal value As String _
+)
+
+    strTagName = name
+    strTagVal = value
+End Sub

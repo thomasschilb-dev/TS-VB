@@ -1,0 +1,14 @@
+tsIRCd-1.2 (c)2023 TS. MIT. INC.
+
+
+INTRODUCTION
+
+THIS IS AN IRC DAEMON WHICH ALLOWS YOU TO RUN YOUR OWN IRC CHAT SERVER.
+IT IS A FORK OF ROCKIRCD AND WRITTEN WITH VB6 UNDER MIT LICENSE.
+YOU CAN GIVE IT AWAY BUT ONLY FOR NON-COMMERCIAL USE!
+
+LEGENDE OF FILES
+
+tsIRCd.exe  - The IRC Daemon, Right-Click the TaskSymbol to Quit the Server
+MOTD.TXT    - Message Of The Day, Your Welcome Message for all Users
+MD5Hash.exe - Generate MD5 Hash, e.g. for the tsIRCd.config file
